@@ -1,5 +1,5 @@
-1. Download OTA in updater. 
-2. Switch selinux from enforcing to permissive. Recommended app- https://forum.xda-developers.com/android/apps-games/app-selinux-switch-t3656502 
+1. Switch selinux from enforcing to permissive. Recommended app- https://forum.xda-developers.com/android/apps-games/app-selinux-switch-t3656502 
+2. Download OTA in updater. 
 3. Install. DONT TAP REBOOT YET, because updater changed slot. 
 4. Go to magisk, install module named "TWRP A/B Repartition". It's needed to keep TWRP alive. 
 5. In main magisk menu, press install, then "Install to inactive slot after OTA". It's needed to flash magisk to inactive slot, because updater changed slot, where magisk doesn't exist. 
