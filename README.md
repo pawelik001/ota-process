@@ -9,5 +9,5 @@
 9. Switch from SELimux status from permissive to enforcing.
 10. Proof.
 
-If you want to keep magsik 18.1 in step 5, paste this to custom URL in Magisk>settings>channel
+If you want to keep magisk 18.1 in step 5, paste this to custom URL in Magisk>settings>channel
 https://raw.githubusercontent.com/pawelik001/magisk_files/master/stable.json
